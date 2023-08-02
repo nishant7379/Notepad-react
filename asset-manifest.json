@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Notepad-react/static/css/main.63868a02.css",
+    "main.js": "/Notepad-react/static/js/main.7fe020a5.js",
+    "static/media/plus.png": "/Notepad-react/static/media/plus.f5d4d283910a71769470.png",
+    "index.html": "/Notepad-react/index.html",
+    "main.63868a02.css.map": "/Notepad-react/static/css/main.63868a02.css.map",
+    "main.7fe020a5.js.map": "/Notepad-react/static/js/main.7fe020a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63868a02.css",
+    "static/js/main.7fe020a5.js"
+  ]
+}
